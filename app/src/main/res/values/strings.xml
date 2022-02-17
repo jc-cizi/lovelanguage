@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">lovelanguage</string>
+    <string-array name="CodingLanguages">
+        <item> Choose language </item>
+        <item> Java </item>
+        <item> C++ </item>
+        <item> Python </item>
+        <item> C </item>
+        <item> C# </item>
+        <item> JavaScript </item>
+    </string-array>
+</resources>
